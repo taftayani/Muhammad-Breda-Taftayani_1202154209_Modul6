@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "672909877918",
+    "firebase_url": "https://modul-6-209.firebaseio.com",
+    "project_id": "modul-6-209",
+    "storage_bucket": "modul-6-209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672909877918:android:3aa023e1b8b254ba",
+        "android_client_info": {
+          "package_name": "com.example.breda.muhammadbredataftayani_1202154209_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672909877918-8b5irg5ejfuvj65qgkab0ttt1ihi7mmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFh7P4Xm0JpNPJEAS6JAnbXKLWOiZf_qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
